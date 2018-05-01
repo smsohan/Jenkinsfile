@@ -11,7 +11,7 @@ node {
 }
 stage('Publish') {
 node {
-   echo 'Publish
+   echo 'Publish'
 }
 }
 stage('Deploy') {
